@@ -1,0 +1,1 @@
+export const TERA_DATA='TERA_DATA'
